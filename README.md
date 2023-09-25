@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html>
-  # Barbearia Alura
+<html lang="pt-br">
+<meta charset="UTF-8">
+<title>Barbearia Alura</title>
 
   <h1>Sobre a Barbearia Alura</h1>
 
