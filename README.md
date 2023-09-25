@@ -1,4 +1,5 @@
-
+<!DOCTYPE html>
+<html>
 # Barbearia Alura
 
 <h1>Sobre a Barbearia Alura</h1>
