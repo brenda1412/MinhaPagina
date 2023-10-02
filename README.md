@@ -6,7 +6,7 @@
 <link rel= "stylesheet" href= "style.csss">
    </head>
    <body>
-<>
+<img src= "banner.jpg">
 
   <h1>Sobre a Barbearia Alura</h1>
 
