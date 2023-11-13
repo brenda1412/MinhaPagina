@@ -1,3 +1,13 @@
+body{
+
+}
+
+#banner{
+width: 2000px;
+height: 600px;
+
+}
+
 .items{
 	font-style: italic;
 }
